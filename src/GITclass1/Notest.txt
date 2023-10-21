@@ -1,0 +1,38 @@
+
+---------- GIT class 1 ----------------------
+1. what is version?
+    Any updates in the previous functionality makes a new version.
+
+2. What is Git ?
+    Git is a tool to manage version... also called VCT (Version Control Tool). Git helps us to manage version.
+    - Why do we need git?
+    Because using Git is very easy to create backup of code, maintain versions in less space.
+
+3. What is a Repository?
+    A repository is a storage area.
+- Local Repo -> Storage located inside our computer is called local repo.
+- Remote Repo -> storage location in Github on the internet.
+
+4. What is Github?
+    Github is a remote repository for the back of our codes.
+
+5. To communicate to git in Windows, we use GitBash.
+    GitBash is used in Windows, its a form of terminal that can understand UNIX based commands.
+    The best definition for GitBash/Terminal: It's a gateway of communication with the computer.
+- UNIX -> It's an Operating System -- Git understands Unix based commands
+
+6. To communicate to git in Mac, we use Mac terminal.
+    Mac Terminal is used in Mac computer, it is already advanced and can understand UNIX based commands
+
+7. To talk to computer, we use Commands:
+
+    - pwd -> Print Working Directory , which is the current location gitBash/terminal
+    - ls -> List , shows all the files or folders in the current location of terminal, which folder terminal can see
+    - cd -> Change Directory , it helps terminal to move to a desired Directory (directory = folder)
+            cd folderName -> moves to a particular folder if terminal is able to see it.
+    - cd .. -> it moves terminal one step back in the path.
+
+What is path ?
+    Path is like an address to our files/folders in the computer.
+
+Example: The path: Desktop/intellij/java/project1
