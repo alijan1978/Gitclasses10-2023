@@ -30,9 +30,31 @@
     - ls -> List , shows all the files or folders in the current location of terminal, which folder terminal can see
     - cd -> Change Directory , it helps terminal to move to a desired Directory (directory = folder)
             cd folderName -> moves to a particular folder if terminal is able to see it.
-    - cd .. -> it moves terminal one step back in the path.
+    - cd .. -> it moves terminal one step back in the path. In case of moving back
+    - cd IdeaProjects
+    - cd GiTclasses
+    - git init -> initialize Git repository
+    - git add . --> take a copy of all the files inside the folder and save them in the Staging Area
+            (this step is called Staging Area "temporary storage" before adding/saving to actual Repo by git commit)
+    - git commit -m "This is the first class of Git" --> take a copy of all the folders/files in the
+                                                staging area and place them in the local repository
+    - git log -> to see the user details, time and date of this commit
+
+    ---------------------------------------------------------------------------------------
+
+
 
 What is path ?
     Path is like an address to our files/folders in the computer.
 
 Example: The path: Desktop/intellij/java/project1
+
+Important:
+    If we by mistake forgot to type the correct message or double colon " " in git commit -m "asfdsfsdf"
+    We can do this to exit that particular sentence and type the correct one:
+    ---------- Press Ctrl+C ----------
+    Or if we make mistake in git commit - m "asdfasd" ... we put extra space after 'm' , we can retype
+    the same command in correct way, it works better.
+
+Working Directory:
+    The folder where my files are located.
