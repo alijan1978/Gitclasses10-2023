@@ -58,3 +58,7 @@ Important:
 
 Working Directory:
     The folder where my files are located.
+
+Easy Step:
+    To access the folder in Drive C: where all my Java projects are saved there.
+    Simply right-click on GiTclasses project -> click open explorer and it takes to IdeaProjects
